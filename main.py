@@ -7,8 +7,8 @@ import urlparse
 from get_xueqing.get_xueqing import get_xueqing_data
 
 
-user = 'miao880513@126.com'
-pwd = '880513'
+user = [username] #雪晴数据网账号
+pwd = [password] #雪晴数据网密码
 
 url = 'http://www.xueqing.cc/course/page/'
 
